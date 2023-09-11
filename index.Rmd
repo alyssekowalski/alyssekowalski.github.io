@@ -1,0 +1,24 @@
+---
+title: "Alysse Kowalski"
+image: "alysse.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/alyssekowalski/"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=k7mi450AAAAJ&hl=en"
+  - label: GitHub
+    url: "https://github.com/alyssekowalski"
+  - label: Email
+    url: "mailto:alyssekowalski@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Alysse Kowalski is a postdoctoral research fellow in the Department of 
+[Population, Family and Reproductive Health]("https://publichealth.jhu.edu/departments/population-family-and-reproductive-health") at the Johns Hopkins Bloomberg 
+School of Public Health. She is a public health nutritionist whose work focuses 
+on supporting optimal maternal and child nutrition in low resource settings. In
+addition to her work, she enjoys exploring by bicycle and trying to figure out
+how to squeeze more plants into her garden.
